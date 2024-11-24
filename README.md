@@ -32,4 +32,4 @@ Fitur tambahan dari aplikasi ini adalah kemampuan untuk menyimpan teks beserta h
 Muhammad Subhan 2210010215
 
 ## GIF Demo Aplikasi
-img/AplikasiPerhitunganKata.gif
+![App Screenshot](img/AplikasiPerhitunganKata.gif)
